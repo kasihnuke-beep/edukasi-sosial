@@ -1,0 +1,15 @@
+ai-lingkungan-biru/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── static/
+│   ├── style.css
+│   └── uploads/
+│
+└── templates/
+    ├── login.html
+    ├── register.html
+    ├── dashboard.html
+    └── result.html
